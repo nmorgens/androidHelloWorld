@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

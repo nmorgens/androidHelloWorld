@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

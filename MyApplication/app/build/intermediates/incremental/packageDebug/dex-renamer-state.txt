@@ -1,0 +1,7 @@
+#Thu Sep 07 12:20:10 EDT 2017
+base.0=/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9444f96e2c809f576bb712d6170b9bd7ea58654b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b7fb0b40ffcdbf20c4f573b09bceb352157548a8/classes.dex
+base.1=/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b7fb0b40ffcdbf20c4f573b09bceb352157548a8
+file.0=/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9444f96e2c809f576bb712d6170b9bd7ea58654b/classes.dex

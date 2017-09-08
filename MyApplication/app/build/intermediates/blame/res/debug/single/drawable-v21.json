@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

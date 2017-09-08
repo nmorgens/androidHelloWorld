@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/bc1ca197fdc29481195efddc2a456c17f8e84e5a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa946bde158fccbf706880fdd8d9a52be043a69c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/dc5acff2323282513203373a3db8c06625746f25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_7804f6940abe72b757ac77c6aa7651a6bfd47c6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/0b43fbdccc2b6f376cd56b8b1342874f5e4198c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aed874a99d25b2231d2c2147f44aa75527e4f655/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/dc5acff2323282513203373a3db8c06625746f25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7804f6940abe72b757ac77c6aa7651a6bfd47c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9444f96e2c809f576bb712d6170b9bd7ea58654b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/0b43fbdccc2b6f376cd56b8b1342874f5e4198c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_aed874a99d25b2231d2c2147f44aa75527e4f655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/bc1ca197fdc29481195efddc2a456c17f8e84e5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_aa946bde158fccbf706880fdd8d9a52be043a69c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/307379d674df14feab6fd6397d9373a58b37b451/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_e5b6fff61bf9597dc4317ffaba7d1b5e9142666e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_2c4ccce03f6de53031da691d56d4f29be651d18b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/307379d674df14feab6fd6397d9373a58b37b451/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5b6fff61bf9597dc4317ffaba7d1b5e9142666e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/8cc2774b0d4c1cdb3b308465255c1191e5a916be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_d74329df04d42ba82538d408e15b59eb1c2bd8b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/5080b433a68ac85dd273736dae96a0dd1d2b22a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cd4b5a25bf0bbb628d99f1a59b1cc60821d5344/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc6a8686ee4eba1ff2f45752b8564a3c8f04c85f">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b7fb0b40ffcdbf20c4f573b09bceb352157548a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/8cc2774b0d4c1cdb3b308465255c1191e5a916be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d74329df04d42ba82538d408e15b59eb1c2bd8b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/5080b433a68ac85dd273736dae96a0dd1d2b22a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_2cd4b5a25bf0bbb628d99f1a59b1cc60821d5344.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/eadaf17c4ad931f9b2f72819767d2601f68d956b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05dab30b0471606416a09497a89a948051fb254e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/eadaf17c4ad931f9b2f72819767d2601f68d956b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_05dab30b0471606416a09497a89a948051fb254e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_6343f4a55d7e3e8d99f42f11d4c1ab1451744e14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/7f44aa715e3fb000fbf11d1d83e263a441b43208/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6343f4a55d7e3e8d99f42f11d4c1ab1451744e14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2c4ccce03f6de53031da691d56d4f29be651d18b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/dbd66cc7a21942987780a39b06b53e93b8425a28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b8fa269896bb0a4c6717ef902b35257d7be7cdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_1ca22b6e532b4a0514e0d31a70bdd1af3801f099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/.android/build-cache/f23e321affcb261c36f01e749609d707d25c705d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d68f224348106483d4d5903f2bae1e50e5ff524/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_1ca22b6e532b4a0514e0d31a70bdd1af3801f099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/dbd66cc7a21942987780a39b06b53e93b8425a28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_6b8fa269896bb0a4c6717ef902b35257d7be7cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nathanmorgenstern/.android/build-cache/f23e321affcb261c36f01e749609d707d25c705d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_7d68f224348106483d4d5903f2bae1e50e5ff524.jar" />
+    </item>
+
+</items>
