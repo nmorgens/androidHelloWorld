@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TeenageMutantNinjaTurtles</string>
+
+    <string-array name="turtle_array">
+        <item>Leonardo</item>
+        <item>Donatello</item>
+        <item>Michelangelo</item>
+        <item>Raphael</item>
+    </string-array>
+
+    <string name="Leonardo_Description"> Highly skilled in ninjutsu, Olympic-level agility, speed, and strength, Keen strategist, Master of stealth, Mastery of kenjutsu, Master swordsman, Chi Gong, Mastery of various forms of hand-to-hand combat,Exceptional leadership skills, Enhanced slicing and slashing (via his swords), Healing abilities (2012 show), Use in archery and shuriken</string>
+    <string name="Dontatello_Description">Mastery of ninjutsu, and Chi Gong, Olympic-level agility, speed, and strength, Genius-level intellect, Scientist, engineer, inventor</string>
+    <string name="Michelangelo_Description">Highly skilled in ninjutsu, agility, speed, and strength, Master of stealth,Master of twin offensive nunchuck, Chi Gong, Talented chef</string>
+    <string name="Raphael_Description">  Highly skilled in ninjutsu, Olympic-level agility, speed, and strength, Mastery of kobudo, Master of stealth, Chi Gong, Master of twin offensive/defensive sai</string>
+    <string name="NinjaTurtle_Description">Members: Leonardo, Donatello, Michelangelo, Raphael</string>
+
+</resources>
